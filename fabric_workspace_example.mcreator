@@ -216,6 +216,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "fweeel"
+    },
+    {
+      "name": "Fuel2",
+      "type": "fuel",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fuel_2"
     }
   ],
   "variable_elements": [],
