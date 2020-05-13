@@ -1,0 +1,9 @@
+{
+  "group": "fwe",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "fwe:foodiuit"
+  },
+  "result": "fwe:fooookit"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "fwe",
+  "version": "1.0.0",
+  "name": "Fabric Workspace Example",
+  "authors": [
+    "school, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.fwe.FabricWorkspaceExample"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.15.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

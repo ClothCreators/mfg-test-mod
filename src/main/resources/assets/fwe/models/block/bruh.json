@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fwe:blocks/blocky",
+    "up": "fwe:blocks/blocky",
+    "north": "fwe:blocks/blocky",
+    "east": "fwe:blocks/blocky",
+    "south": "fwe:blocks/blocky",
+    "west": "fwe:blocks/blocky",
+    "particle": "fwe:blocks/blocky"
+  }
+}

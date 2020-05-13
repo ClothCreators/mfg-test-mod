@@ -1,0 +1,25 @@
+{
+  "_fv": 7,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Testy",
+    "achievementDescription": "you test",
+    "achievementIcon": {
+      "value": "Blocks.LOG2#0"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 0,
+    "achievementType": "goal",
+    "parent": {
+      "value": "story/root"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"block_placed\" x=\"42\" y=\"21\"><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.QUARTZ_BLOCK#0</field></block></value><next><block type=\"advancement_trigger\" deletable=\"false\"/></next></block></xml>"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "_fv": 7,
+  "_type": "function",
+  "definition": {
+    "code": "give @p minecraft:diamond",
+    "name": "func",
+    "namespace": "mod"
+  }
+}

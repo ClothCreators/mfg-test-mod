@@ -1,0 +1,27 @@
+{
+  "group": "fwe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "fwe:copper_ingot"
+    },
+    "1": {
+      "item": "fwe:copper_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "fwe:copper_hoe",
+    "count": 1
+  }
+}

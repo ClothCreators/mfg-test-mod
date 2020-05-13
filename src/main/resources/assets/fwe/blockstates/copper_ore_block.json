@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fwe:block/copper_ore_block"
+    }
+  }
+}
