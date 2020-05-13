@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fabric_workspace_example:block/copper_ore_block"
+    }
+  }
+}

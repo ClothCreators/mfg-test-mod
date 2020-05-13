@@ -1,0 +1,9 @@
+{
+  "group": "fabric_workspace_example",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "fabric_workspace_example:foodiuit"
+  },
+  "result": "fabric_workspace_example:fooookit"
+}

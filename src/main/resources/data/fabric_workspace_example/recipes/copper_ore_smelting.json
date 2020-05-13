@@ -1,0 +1,11 @@
+{
+  "group": "fabric_workspace_example",
+  "type": "minecraft:smelting",
+  "experience": 0.5249999999999999,
+  "ingredient": {
+    "item": "fabric_workspace_example:copper_ore"
+  },
+  "result": {
+    "item": "fabric_workspace_example:copper_ingot"
+  }
+}

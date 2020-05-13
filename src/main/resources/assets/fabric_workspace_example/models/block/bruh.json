@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fabric_workspace_example:blocks/blocky",
+    "up": "fabric_workspace_example:blocks/blocky",
+    "north": "fabric_workspace_example:blocks/blocky",
+    "east": "fabric_workspace_example:blocks/blocky",
+    "south": "fabric_workspace_example:blocks/blocky",
+    "west": "fabric_workspace_example:blocks/blocky",
+    "particle": "fabric_workspace_example:blocks/blocky"
+  }
+}
