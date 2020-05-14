@@ -200,31 +200,193 @@
       "registry_name": "copper_hoe_recipe"
     },
     {
-      "name": "Vuil",
-      "type": "fuel",
+      "name": "OnyxOre",
+      "type": "block",
       "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "vuil"
+      "registry_name": "onyx_ore"
     },
     {
-      "name": "Fweeel",
-      "type": "fuel",
+      "name": "OnyxOreBlock",
+      "type": "block",
       "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "fweeel"
+      "registry_name": "onyx_ore_block"
     },
     {
-      "name": "Fuel2",
-      "type": "fuel",
+      "name": "OnyxGem",
+      "type": "item",
       "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "fuel_2"
+      "registry_name": "onyx_gem"
+    },
+    {
+      "name": "OnyxOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_ore_block_recipe"
+    },
+    {
+      "name": "OnyxBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_block_ore_recipe"
+    },
+    {
+      "name": "OnyxOreSmelting",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_ore_smelting"
+    },
+    {
+      "name": "OnyxPickaxe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_pickaxe"
+    },
+    {
+      "name": "OnyxAxe",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_axe"
+    },
+    {
+      "name": "OnyxSword",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_sword"
+    },
+    {
+      "name": "OnyxShovel",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_shovel"
+    },
+    {
+      "name": "OnyxHoe",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_hoe"
+    },
+    {
+      "name": "OnyxPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_pickaxe_recipe"
+    },
+    {
+      "name": "OnyxAxeRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_axe_recipe"
+    },
+    {
+      "name": "OnyxSwordRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_sword_recipe"
+    },
+    {
+      "name": "OnyxShovelRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_shovel_recipe"
+    },
+    {
+      "name": "OnyxHoeRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_hoe_recipe"
+    },
+    {
+      "name": "OnyxArmor",
+      "type": "armor",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_armor"
+    },
+    {
+      "name": "OnyxArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_armor_helmet_recipe"
+    },
+    {
+      "name": "OnyxArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_armor_body_recipe"
+    },
+    {
+      "name": "OnyxArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_armor_leggings_recipe"
+    },
+    {
+      "name": "OnyxArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
@@ -232,29 +394,41 @@
   "language_map": {
     "en_us": {
       "item.fabric_workspace_example.copper_sword": "Copper Sword",
+      "item.fabric_workspace_example.onyx_pickaxe": "Onyx Pickaxe",
+      "item.fabric_workspace_example.onyx_armorbody": "Onyx Chestplate",
       "item.fwe.copper_axe": "Copper Axe",
       "item.fwe.copper_sword": "Copper Sword",
       "block.fabric_workspace_example.copper_ore_block": "Block of Copper",
       "item.fabric_workspace_example.copper_hoe": "Copper Hoe",
+      "item.fabric_workspace_example.onyx_armorhelmet": "Onyx Helmet",
       "block.fwe.copper_ore": "Copper Ore",
       "advancements.test.descr": "you test",
       "item.fabric_workspace_example.copper_shovel": "Copper Shovel",
       "item.fwe.fooookit": "Fooookit yum yum",
       "item.fwe.copper_pickaxe": "Copper Pickaxe",
       "item.fwe.copper_hoe": "Copper Hoe",
+      "item.fabric_workspace_example.onyx_shovel": "Onyx Shovel",
       "item.fabric_workspace_example.copper_axe": "Copper Axe",
+      "item.fabric_workspace_example.onyx_sword": "Onyx Sword",
       "item.fwe.copper_shovel": "Copper Shovel",
+      "item.fabric_workspace_example.onyx_armorlegs": "Onyx Leggings",
       "block.fabric_workspace_example.copper_ore": "Copper Ore",
       "item.fabric_workspace_example.copper_ingot": "Copper",
       "item.fabric_workspace_example.copper_pickaxe": "Copper Pickaxe",
       "advancements.test.title": "Testy",
       "block.fwe.copper_ore_block": "Block of Copper",
       "block.fabric_workspace_example.bruh": "Bruh",
+      "block.fabric_workspace_example.onyx_ore": "Onyx Ore",
       "item.fabric_workspace_example.fooookit": "Fooookit yum yum",
+      "item.fabric_workspace_example.onyx_hoe": "Onyx Hoe",
       "block.fwe.bruh": "Bruh",
       "item.fwe.copper_ingot": "Copper",
       "item.fabric_workspace_example.foodiuit": "Foodiuit",
-      "item.fwe.foodiuit": "Foodiuit"
+      "item.fabric_workspace_example.onyx_axe": "Onyx Axe",
+      "item.fabric_workspace_example.onyx_gem": "Onyx",
+      "item.fwe.foodiuit": "Foodiuit",
+      "block.fabric_workspace_example.onyx_ore_block": "Block of Onyx",
+      "item.fabric_workspace_example.onyx_armorboots": "Onyx Boots"
     }
   },
   "workspaceSettings": {
@@ -274,5 +448,5 @@
     "modElementsPackage": "potatocult.fwe",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000318613
+  "mcreatorVersion": 202000320316
 }

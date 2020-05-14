@@ -10,7 +10,6 @@ import net.fabricmc.fabric.api.block.FabricBlockSettings;
 
 public class CopperOreBlock extends Block {
 	public CopperOreBlock() {
-		super(FabricBlockSettings.of(Material.METAL).breakByTool(FabricToolTags.PICKAXES).breakByHand(true).sounds(BlockSoundGroup.METAL)
-				.strength(5, 10f).build());
+		super(FabricBlockSettings.of(Material.METAL).breakByTool(FabricToolTags.PICKAXES).sounds(BlockSoundGroup.METAL).strength(5f, 10f).build());
 	}
 }

@@ -1,0 +1,13 @@
+{
+  "group": "fabric_workspace_example",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fabric_workspace_example:onyx_ore_block"
+    }
+  ],
+  "result": {
+    "item": "fabric_workspace_example:onyx_gem",
+    "count": 9
+  }
+}

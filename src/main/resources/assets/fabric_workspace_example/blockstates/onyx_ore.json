@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fabric_workspace_example:block/onyx_ore"
+    }
+  }
+}

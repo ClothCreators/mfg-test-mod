@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fabric_workspace_example:blocks/onyx_ore",
+    "particle": "fabric_workspace_example:blocks/onyx_ore"
+  }
+}

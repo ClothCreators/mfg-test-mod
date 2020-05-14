@@ -1,0 +1,26 @@
+{
+  "group": "fabric_workspace_example",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "fabric_workspace_example:onyx_gem"
+    },
+    "2": {
+      "item": "fabric_workspace_example:onyx_gem"
+    },
+    "3": {
+      "item": "fabric_workspace_example:onyx_gem"
+    },
+    "5": {
+      "item": "fabric_workspace_example:onyx_gem"
+    }
+  },
+  "result": {
+    "item": "fabric_workspace_example:onyx_armorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "group": "fabric_workspace_example",
+  "type": "minecraft:smelting",
+  "experience": 2.0999999999999996,
+  "ingredient": {
+    "item": "fabric_workspace_example:onyx_ore"
+  },
+  "result": {
+    "item": "fabric_workspace_example:onyx_gem"
+  }
+}
